@@ -17,10 +17,10 @@
     "test:e2e": "npx playwright test"
   },
   "dependencies": {
-    "@nuxt/eslint": "^0.7.4",
+    "@nuxt/eslint": "^1.17.0",
     "chart.js": "^4.4.7",
     "eslint": "^9.17.0",
-    "nuxt": "^3.15.3",
+    "nuxt": "^4.7.0",
     "nuxt-auth-utils": "^0.5.7",
     "roboto-fontface": "^0.10.0",
     "undici": "^7.3.0",
@@ -31,8 +31,8 @@
   },
   "devDependencies": {
     "@mdi/font": "^7.4.47",
-    "@nuxt/fonts": "^0.10.0",
-    "@nuxt/test-utils": "^3.15.4",
+    "@nuxt/fonts": "^1.2.1",
+    "@nuxt/test-utils": "^3.23.0",
     "@playwright/test": "^1.49.1",
     "@types/webfontloader": "^1.6.38",
     "@vue/test-utils": "^2.4.6",
